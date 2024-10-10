@@ -1,0 +1,34 @@
+{
+  "tom": {
+    "pin": 1234,
+    "balance": 0.0
+  },
+  "jerry": {
+    "pin": 1234,
+    "balance": 35.0
+  },
+  "shandy": {
+    "pin": 1234,
+    "balance": 34
+  },
+  "rambo": {
+    "pin": 1234,
+    "balance": 45
+  },
+  "rosy": {
+    "pin": 1234,
+    "balance": 21
+  },
+  "kjn": {
+    "pin": 5688,
+    "balance": 0
+  },
+  "cyftygvyu": {
+    "pin": 6767,
+    "balance": 0
+  },
+  "yogendra singh ": {
+    "pin": 1234,
+    "balance": 0
+  }
+}
